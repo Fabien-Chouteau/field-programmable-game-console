@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri /home/chouteau/src/github/wee-noise-maker/hardware/footprints.pretty)(options "")(descr ""))
+  (lib (name microbit_connector)(type KiCad)(uri /home/chouteau/src/micro:gamer/microbit_connector.pretty)(options "")(descr ""))
+)
